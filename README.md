@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BJARUSHI/Leetcodee/tree/master/0001-two-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/BJARUSHI/Leetcodee/tree/master/0930-binary-subarrays-with-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BJARUSHI/Leetcodee/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/BJARUSHI/Leetcodee/tree/master/0013-roman-to-integer) |
+| [0930-binary-subarrays-with-sum](https://github.com/BJARUSHI/Leetcodee/tree/master/0930-binary-subarrays-with-sum) |
 ## Math
 |  |
 | ------- |
@@ -19,4 +21,12 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/BJARUSHI/Leetcodee/tree/master/0013-roman-to-integer) |
+## Sliding Window
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/BJARUSHI/Leetcodee/tree/master/0930-binary-subarrays-with-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/BJARUSHI/Leetcodee/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
