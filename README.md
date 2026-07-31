@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BJARUSHI/Leetcodee/tree/master/0001-two-sum) |
+| [0860-lemonade-change](https://github.com/BJARUSHI/Leetcodee/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/BJARUSHI/Leetcodee/tree/master/0930-binary-subarrays-with-sum) |
 ## Hash Table
 |  |
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/BJARUSHI/Leetcodee/tree/master/0002-add-two-numbers) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/BJARUSHI/Leetcodee/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
