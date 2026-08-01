@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BJARUSHI/Leetcodee/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/BJARUSHI/Leetcodee/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/BJARUSHI/Leetcodee/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
@@ -47,4 +48,12 @@
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/BJARUSHI/Leetcodee/tree/master/0860-lemonade-change) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/BJARUSHI/Leetcodee/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/BJARUSHI/Leetcodee/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
