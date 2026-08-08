@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BJARUSHI/Leetcodee/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/BJARUSHI/Leetcodee/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/BJARUSHI/Leetcodee/tree/master/0014-longest-common-prefix) |
 | [0860-lemonade-change](https://github.com/BJARUSHI/Leetcodee/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/BJARUSHI/Leetcodee/tree/master/0930-binary-subarrays-with-sum) |
@@ -52,11 +53,13 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/BJARUSHI/Leetcodee/tree/master/0011-container-with-most-water) |
 | [0860-lemonade-change](https://github.com/BJARUSHI/Leetcodee/tree/master/0860-lemonade-change) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/BJARUSHI/Leetcodee/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/BJARUSHI/Leetcodee/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
 |  |
 | ------- |
